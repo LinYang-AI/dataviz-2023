@@ -4,7 +4,7 @@ An example of data visualization with plotly and dash in python based on class D
 
 The outputs consists 10 different types of charts, static and interactive, histgram, pie chart *etc*.
 
-1. The first chart is showing the top ten and last ten stations with the highest number of delay train on the departure station side.<img src="./image/README/1684237289420.png" width=70% height=70%>
+1. The first chart is showing the top ten and last ten stations with the highest number of delay train on the departure station side.<img src="./image/README/1684237289420.png" width=100% height=100%>
 
 
 
