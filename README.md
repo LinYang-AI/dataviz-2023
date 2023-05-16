@@ -10,18 +10,18 @@ The outputs consists 10 different types of charts, static and interactive, histg
 
 2. The second one is an **interactive** hierachical box chart of number of delayed trains of each station to the respect of the time
 
-   <img src="image/README/1684237387200.png" width=50% height=50%>
+   <img src="image/README/1684237387200.png" width=70% height=70%>
 
 
 
 3. The third one is a histgram with dropdown box that user can select the station and the year to find out the distribution of number of late train to the respect of months.
 
-   <img src="./image/README/1684237516188.png" height=50% width=50%>
+   <img src="./image/README/1684237516188.png" height=70% width=70%>
 
 
 4. The forth one is a pie chart to illustrate the portion of late trains that were caused by *external reason* (as named from the SNCF dataset) of year 2020 from Paris Montparnasse station to Nantes station.
 
-   <img src="image/README/1684237709035.png" width=20% height=20%><img src="image/README/1684237674936.png" width=20% height=20%>
+   <img src="image/README/1684237709035.png" width=20% height=20%>
 
 
 5. The fifth one is a line chart that depicts the normalized distrabution of late train on the arrival train station of year 2020
