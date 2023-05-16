@@ -8,7 +8,8 @@ The outputs consists 10 different types of charts, static and interactive, histg
 
 
 
-2. The second one is an **interactive** hierachical box chart of number of delayed trains of each station to the respect of the time.<img src="image/README/1684237387200.png" width=70% height=70%>
+2. The second one is an **interactive** hierachical box chart of number of delayed trains of each station to the respect of the time.
+<img src="image/README/1684237387200.png" width=70% height=70%>
 
 
 
